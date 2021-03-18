@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex02ViewWidget</string>
+
+    <string name="my_text">Hello android</string>
+</resources>
